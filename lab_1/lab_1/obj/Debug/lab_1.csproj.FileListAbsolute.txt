@@ -4,3 +4,9 @@ I:\ProjectsVisual Studio\lab_1\lab_1\bin\Debug\lab_1.pdb
 I:\ProjectsVisual Studio\lab_1\lab_1\obj\Debug\lab_1.csprojAssemblyReference.cache
 I:\ProjectsVisual Studio\lab_1\lab_1\obj\Debug\lab_1.exe
 I:\ProjectsVisual Studio\lab_1\lab_1\obj\Debug\lab_1.pdb
+C:\Users\egork\Documents\GitHub\C-lab1-5\lab_1\lab_1\bin\Debug\lab_1.exe.config
+C:\Users\egork\Documents\GitHub\C-lab1-5\lab_1\lab_1\bin\Debug\lab_1.exe
+C:\Users\egork\Documents\GitHub\C-lab1-5\lab_1\lab_1\bin\Debug\lab_1.pdb
+C:\Users\egork\Documents\GitHub\C-lab1-5\lab_1\lab_1\obj\Debug\lab_1.csprojAssemblyReference.cache
+C:\Users\egork\Documents\GitHub\C-lab1-5\lab_1\lab_1\obj\Debug\lab_1.exe
+C:\Users\egork\Documents\GitHub\C-lab1-5\lab_1\lab_1\obj\Debug\lab_1.pdb
