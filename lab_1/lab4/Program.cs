@@ -51,11 +51,7 @@ namespace lab4
                         {
                             min++;
                         }
-                        /*
-                        if (arr[n - 2] < arr[n - 1] && arr[n - 2] < arr[n - 3])
-                        {
-                            min++;
-                        }*/
+                        
                     
 
                 }
@@ -77,11 +73,7 @@ namespace lab4
                         {
                             max++;
                         }
-                        /*
-                        if (arr[n - 2] > arr[n - 1] && arr[n - 2] > arr[n - 3])
-                        {
-                            max++;
-                        }*/
+                        
                     
 
                 }
