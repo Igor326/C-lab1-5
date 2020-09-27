@@ -7,7 +7,9 @@ namespace lab4
         static void Main(string[] args)
         {
             int n;
-            int c = 0;
+            int min = 0;
+            int max = 0;
+
             Console.WriteLine("Insert amount of elements");
             n = Convert.ToInt32(Console.ReadLine());
             int[] arr = new int[n];
@@ -25,42 +27,74 @@ namespace lab4
             }
             Console.WriteLine();
 
-            if (n==3 ) {
+            if (n == 3)
+            {
                 if (arr[1] < arr[0] && arr[2] > arr[1])
                 {
-                    c++;
+                    min++;
                 }
-               
-                
+
+
             }
             else
-            if(n==3)
+            if (n == 3)
             {
                 Console.WriteLine(" There are no elements.");
             }
-            if ( n > 3)
+            for (int i = 1;  i < (n - 1); i++)
             {
-                if (arr[1] < arr[0] && arr[2] > arr[1])
+                if (n > 3)
                 {
-                    c++;
+                    
+                    
+                        if ( arr[i - 1] > arr[i] && arr[i + 1] > arr[i] && i < (n - 1) && i > 0)
+                        {
+                            min++;
+                        }
+                        /*
+                        if (arr[n - 2] < arr[n - 1] && arr[n - 2] < arr[n - 3])
+                        {
+                            min++;
+                        }*/
+                    
+
                 }
-                if (arr[n - 2] < arr[n-1] && arr[n - 2] < arr[n - 3])
+                if (n == 3)
                 {
-                    c++;
+                    if (arr[1] > arr[0] && arr[2] < arr[1])
+                    {
+                        max++;
+                    }
+
+
                 }
 
+                if (n > 3)
+                {
+                    
+                    
+                        if (arr[i - 1] < arr[i] && arr[i + 1] < arr[i] && i < (n - 1))
+                        {
+                            max++;
+                        }
+                        /*
+                        if (arr[n - 2] > arr[n - 1] && arr[n - 2] > arr[n - 3])
+                        {
+                            max++;
+                        }*/
+                    
+
+                }
             }
-            /*for (int i = 2; i < n-2 ; i++)
-            {
-               if(arr[i] < arr[i-1] && arr[i] < arr[i + 1])
-                {
-                    c++;
-                }
 
-            }*/
+
             Console.WriteLine(" There is/are ");
-            Console.Write(c);
-            Console.Write(" element/elements.");
+            Console.WriteLine(min);
+            Console.WriteLine("  local minimum element/elements.");
+            Console.WriteLine(" There is/are ");
+            Console.WriteLine(max);
+            Console.WriteLine("  local maximum element/elements.");
+
         }
     }
 }
