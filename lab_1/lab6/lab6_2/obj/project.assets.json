@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\egork\\Documents\\GitHub\\C-lab1-5\\lab_1\\lab6\\lab6\\lab6.csproj",
-      "projectName": "lab6",
-      "projectPath": "C:\\Users\\egork\\Documents\\GitHub\\C-lab1-5\\lab_1\\lab6\\lab6\\lab6.csproj",
+      "projectUniqueName": "C:\\Users\\egork\\Documents\\GitHub\\C-lab1-5\\lab_1\\lab6\\lab6_2\\lab6_2.csproj",
+      "projectName": "lab6_2",
+      "projectPath": "C:\\Users\\egork\\Documents\\GitHub\\C-lab1-5\\lab_1\\lab6\\lab6_2\\lab6_2.csproj",
       "packagesPath": "C:\\Users\\egork\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\egork\\Documents\\GitHub\\C-lab1-5\\lab_1\\lab6\\lab6\\obj\\",
+      "outputPath": "C:\\Users\\egork\\Documents\\GitHub\\C-lab1-5\\lab_1\\lab6\\lab6_2\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
