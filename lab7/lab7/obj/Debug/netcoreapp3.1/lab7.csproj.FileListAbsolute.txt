@@ -1,0 +1,11 @@
+C:\Users\egork\Documents\GitHub\C-lab1-5\lab7\lab7\bin\Debug\netcoreapp3.1\lab7.exe
+C:\Users\egork\Documents\GitHub\C-lab1-5\lab7\lab7\bin\Debug\netcoreapp3.1\lab7.deps.json
+C:\Users\egork\Documents\GitHub\C-lab1-5\lab7\lab7\bin\Debug\netcoreapp3.1\lab7.runtimeconfig.json
+C:\Users\egork\Documents\GitHub\C-lab1-5\lab7\lab7\bin\Debug\netcoreapp3.1\lab7.runtimeconfig.dev.json
+C:\Users\egork\Documents\GitHub\C-lab1-5\lab7\lab7\bin\Debug\netcoreapp3.1\lab7.dll
+C:\Users\egork\Documents\GitHub\C-lab1-5\lab7\lab7\bin\Debug\netcoreapp3.1\lab7.pdb
+C:\Users\egork\Documents\GitHub\C-lab1-5\lab7\lab7\obj\Debug\netcoreapp3.1\lab7.csprojAssemblyReference.cache
+C:\Users\egork\Documents\GitHub\C-lab1-5\lab7\lab7\obj\Debug\netcoreapp3.1\lab7.AssemblyInfoInputs.cache
+C:\Users\egork\Documents\GitHub\C-lab1-5\lab7\lab7\obj\Debug\netcoreapp3.1\lab7.AssemblyInfo.cs
+C:\Users\egork\Documents\GitHub\C-lab1-5\lab7\lab7\obj\Debug\netcoreapp3.1\lab7.dll
+C:\Users\egork\Documents\GitHub\C-lab1-5\lab7\lab7\obj\Debug\netcoreapp3.1\lab7.pdb
