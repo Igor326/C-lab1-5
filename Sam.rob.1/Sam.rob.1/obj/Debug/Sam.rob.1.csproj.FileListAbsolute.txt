@@ -1,0 +1,6 @@
+I:\ProjectsVisual Studio\Sam.rob.1\Sam.rob.1\obj\Debug\Sam.rob.1.csprojAssemblyReference.cache
+I:\ProjectsVisual Studio\Sam.rob.1\Sam.rob.1\bin\Debug\Sam.rob.1.exe.config
+I:\ProjectsVisual Studio\Sam.rob.1\Sam.rob.1\bin\Debug\Sam.rob.1.exe
+I:\ProjectsVisual Studio\Sam.rob.1\Sam.rob.1\bin\Debug\Sam.rob.1.pdb
+I:\ProjectsVisual Studio\Sam.rob.1\Sam.rob.1\obj\Debug\Sam.rob.1.exe
+I:\ProjectsVisual Studio\Sam.rob.1\Sam.rob.1\obj\Debug\Sam.rob.1.pdb
