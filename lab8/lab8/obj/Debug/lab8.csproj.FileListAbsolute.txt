@@ -1,0 +1,6 @@
+C:\Users\Gleck\source\repos\lab8\lab8\bin\Debug\lab8.exe.config
+C:\Users\Gleck\source\repos\lab8\lab8\bin\Debug\lab8.exe
+C:\Users\Gleck\source\repos\lab8\lab8\bin\Debug\lab8.pdb
+C:\Users\Gleck\source\repos\lab8\lab8\obj\Debug\lab8.csprojAssemblyReference.cache
+C:\Users\Gleck\source\repos\lab8\lab8\obj\Debug\lab8.exe
+C:\Users\Gleck\source\repos\lab8\lab8\obj\Debug\lab8.pdb
