@@ -1,0 +1,6 @@
+E:\My files\VS Projects\lab10\lab10\bin\Debug\lab10.exe.config
+E:\My files\VS Projects\lab10\lab10\bin\Debug\lab10.exe
+E:\My files\VS Projects\lab10\lab10\bin\Debug\lab10.pdb
+E:\My files\VS Projects\lab10\lab10\obj\Debug\lab10.csprojAssemblyReference.cache
+E:\My files\VS Projects\lab10\lab10\obj\Debug\lab10.exe
+E:\My files\VS Projects\lab10\lab10\obj\Debug\lab10.pdb
