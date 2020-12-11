@@ -8,7 +8,7 @@ namespace lab8_2
 {
     class mobileWithBlackAndWhiteScreen : PushButtonTelephone
     {
-        public override List<char> availableSymbols => new List<char>() { '0', '1', '2', '3', '4', '5', '6', '7', '8', '9', '*', '#',
+        public override List<char> AvailableSymbols => new List<char>() { '0', '1', '2', '3', '4', '5', '6', '7', '8', '9', '*', '#',
             'a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j', 'k', 'l', 'm', 'n', 'o', 'p', 'q', 'r', 's', 't', 'u', 'v', 'w', 'x', 'y', 'z', '+'};
 
         public int ScreenWidth { get; set; }
