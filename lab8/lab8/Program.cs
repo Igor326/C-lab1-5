@@ -24,6 +24,7 @@ namespace lab8
                         string name;
                         string color;
                         ushort year;
+                        ushort speed;
                         Console.WriteLine("#====================================#");
                         Console.WriteLine("#Введите данные о машине № {0}:", i + 1);
                         Console.Write("#Имя:");
@@ -32,8 +33,10 @@ namespace lab8
                         color = Convert.ToString(Console.ReadLine());
                         Console.Write("#Год выпуска:");
                         year = Convert.ToUInt16(Console.ReadLine());
+                        Console.Write("#Максимальная скорость:");
+                        speed = Convert.ToUInt16(Console.ReadLine());
                         Console.WriteLine("#====================================#");
-                        Garage.AddCarToGarage(name, color, year);
+                        Garage.AddCarToGarage(name, color, year, speed);
                     }
                     break;
                 }
@@ -47,7 +50,7 @@ namespace lab8
             Console.WriteLine("Что пожелаете?");
             Console.WriteLine("1.Добавить автомобиль;");
             Console.WriteLine("2.Убрать автомобиль;");
-            Console.WriteLine("3.Выбрать атвомоиль по критерию.");
+            Console.WriteLine("3.Выбрать атвомобиль по критерию.");
             choice = Convert.ToByte(Console.ReadLine());
             switch (choice)
             {
@@ -65,6 +68,7 @@ namespace lab8
                                 string name;
                                 string color;
                                 ushort year;
+                                ushort speed;
                                 Console.WriteLine("#====================================#");
                                 Console.WriteLine("#Введите данные о машине № {0}:", i + 1);
                                 Console.Write("#Имя:");
@@ -73,8 +77,10 @@ namespace lab8
                                 color = Convert.ToString(Console.ReadLine());
                                 Console.Write("#Год выпуска:");
                                 year = Convert.ToUInt16(Console.ReadLine());
+                                Console.Write("#Максимальная скорость:");
+                                speed = Convert.ToUInt16(Console.ReadLine());
                                 Console.WriteLine("#====================================#");
-                                Garage.AddCarToGarage(name, color, year);
+                                Garage.AddCarToGarage(name, color, year, speed);
                             }
 
                             break;
