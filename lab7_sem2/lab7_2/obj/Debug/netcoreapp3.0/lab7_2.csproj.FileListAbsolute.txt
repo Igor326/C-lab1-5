@@ -1,0 +1,11 @@
+E:\My files\VS Projects\lab7\lab7_2\bin\Debug\netcoreapp3.0\lab7_2.exe
+E:\My files\VS Projects\lab7\lab7_2\bin\Debug\netcoreapp3.0\lab7_2.deps.json
+E:\My files\VS Projects\lab7\lab7_2\bin\Debug\netcoreapp3.0\lab7_2.runtimeconfig.json
+E:\My files\VS Projects\lab7\lab7_2\bin\Debug\netcoreapp3.0\lab7_2.runtimeconfig.dev.json
+E:\My files\VS Projects\lab7\lab7_2\bin\Debug\netcoreapp3.0\lab7_2.dll
+E:\My files\VS Projects\lab7\lab7_2\bin\Debug\netcoreapp3.0\lab7_2.pdb
+E:\My files\VS Projects\lab7\lab7_2\obj\Debug\netcoreapp3.0\lab7_2.csprojAssemblyReference.cache
+E:\My files\VS Projects\lab7\lab7_2\obj\Debug\netcoreapp3.0\lab7_2.AssemblyInfoInputs.cache
+E:\My files\VS Projects\lab7\lab7_2\obj\Debug\netcoreapp3.0\lab7_2.AssemblyInfo.cs
+E:\My files\VS Projects\lab7\lab7_2\obj\Debug\netcoreapp3.0\lab7_2.dll
+E:\My files\VS Projects\lab7\lab7_2\obj\Debug\netcoreapp3.0\lab7_2.pdb

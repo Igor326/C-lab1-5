@@ -1,0 +1,6 @@
+E:\My files\VS Projects\lab7\lab7\bin\Debug\lab7.exe.config
+E:\My files\VS Projects\lab7\lab7\bin\Debug\lab7.exe
+E:\My files\VS Projects\lab7\lab7\bin\Debug\lab7.pdb
+E:\My files\VS Projects\lab7\lab7\obj\Debug\lab7.csprojAssemblyReference.cache
+E:\My files\VS Projects\lab7\lab7\obj\Debug\lab7.exe
+E:\My files\VS Projects\lab7\lab7\obj\Debug\lab7.pdb
