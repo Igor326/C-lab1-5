@@ -39,7 +39,9 @@ namespace lab7_2
             Console.WriteLine("Папки удалились.");
             Console.ReadKey();
             //Console.WriteLine(fullName);
+            //3.Максимальна к-сть папок створених вкладеним шляхом -257
             //4.Максимальна довжина ім'я папки  - 247 символів
+            
 
         }
     }
