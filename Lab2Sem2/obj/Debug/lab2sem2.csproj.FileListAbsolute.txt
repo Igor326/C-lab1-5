@@ -1,0 +1,9 @@
+C:\Users\Gleck\source\repos\lab2sem2\lab2sem2\bin\Debug\lab2sem2.exe.config
+C:\Users\Gleck\source\repos\lab2sem2\lab2sem2\bin\Debug\lab2sem2.exe
+C:\Users\Gleck\source\repos\lab2sem2\lab2sem2\bin\Debug\lab2sem2.pdb
+C:\Users\Gleck\source\repos\lab2sem2\lab2sem2\obj\Debug\lab2sem2.csprojAssemblyReference.cache
+C:\Users\Gleck\source\repos\lab2sem2\lab2sem2\obj\Debug\lab2sem2.Form1.resources
+C:\Users\Gleck\source\repos\lab2sem2\lab2sem2\obj\Debug\lab2sem2.Properties.Resources.resources
+C:\Users\Gleck\source\repos\lab2sem2\lab2sem2\obj\Debug\lab2sem2.csproj.GenerateResource.cache
+C:\Users\Gleck\source\repos\lab2sem2\lab2sem2\obj\Debug\lab2sem2.exe
+C:\Users\Gleck\source\repos\lab2sem2\lab2sem2\obj\Debug\lab2sem2.pdb
