@@ -1,0 +1,9 @@
+E:\My files\VS Projects\TiresCalculator\TiresCalculator\bin\Release\TiresCalculator.exe.config
+E:\My files\VS Projects\TiresCalculator\TiresCalculator\bin\Release\TiresCalculator.exe
+E:\My files\VS Projects\TiresCalculator\TiresCalculator\bin\Release\TiresCalculator.pdb
+E:\My files\VS Projects\TiresCalculator\TiresCalculator\obj\Release\TiresCalculator.Form1.resources
+E:\My files\VS Projects\TiresCalculator\TiresCalculator\obj\Release\TiresCalculator.Properties.Resources.resources
+E:\My files\VS Projects\TiresCalculator\TiresCalculator\obj\Release\TiresCalculator.csproj.GenerateResource.cache
+E:\My files\VS Projects\TiresCalculator\TiresCalculator\obj\Release\TiresCalculator.exe
+E:\My files\VS Projects\TiresCalculator\TiresCalculator\obj\Release\TiresCalculator.pdb
+E:\My files\VS Projects\TiresCalculator\TiresCalculator\obj\Release\TiresCalculator.csprojAssemblyReference.cache
